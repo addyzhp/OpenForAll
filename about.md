@@ -17,5 +17,5 @@ There are 3 initial members. We hope that more and more people will join the org
 
 You can check the [member][] list and if you wanna join us, click to [join][].
 
-[member]: /member/
-[join]: /join/
+[member]: {{ site.baseurl }}/member/
+[join]: {{ site.baseurl }}/join/

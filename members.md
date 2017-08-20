@@ -25,4 +25,4 @@ Taotao
 
 Initial member of OFA
 
-[addyzhp]: /images/member-icons/addyzhp.jpg 
+[addyzhp]: {{ site.baseurl }}/images/member-icons/addyzhp.jpg 
