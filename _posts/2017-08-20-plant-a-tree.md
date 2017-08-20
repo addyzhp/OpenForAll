@@ -6,7 +6,7 @@ author: Addyzhp
 
 ### 种树记
 
-####前言
+#### 前言
 
 都说中国的森林覆盖率低，想想自己居住的城市——北京，感觉无论是森林覆盖率还是城市绿化率，其实都不算低。
 
@@ -48,7 +48,7 @@ author: Addyzhp
 
 ![image4][]
 
-[image1]: {{ site.baseurl }}/images/dr1.jpg
-[image2]: {{ site.baseurl }}/images/dr2.jpg
-[image3]: {{ site.baseurl }}/images/dr3.jpg
-[image4]: {{ site.baseurl }}/images/dr4.jpg
+[image1]: {{ site.baseurl }}/images/posts/dr1.jpg
+[image2]: {{ site.baseurl }}/images/posts/dr2.jpg
+[image3]: {{ site.baseurl }}/images/posts/dr3.jpg
+[image4]: {{ site.baseurl }}/images/posts/dr4.jpg
