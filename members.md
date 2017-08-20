@@ -7,7 +7,7 @@ permalink: /member/
 MEMBERS:
 =======
 
-Addy Zhao
+**Addy Zhao**
 
 ![addyzhp][] 
 
@@ -15,13 +15,13 @@ Founder of OFA
 
 ---
 
-GuoGuo
+**GuoGuo**
 
 Co-Founder of OFA
 
 ---
 
-Taotao
+**Taotao**
 
 Initial member of OFA
 
